@@ -49,3 +49,7 @@ for i in range(len(topTenTech)):
   print("total_neutral ", total_neutral/ total_sentences)
   print("Final Sentiment Score ", total_compound / total_sentences)
   print("------------------------------------------")
+
+
+#data set citation
+#Bruno Taborda, Ana de Almeida, José Carlos Dias, Fernando Batista, Ricardo Ribeiro. (2021). "Stock Market Tweets Data." Web.
